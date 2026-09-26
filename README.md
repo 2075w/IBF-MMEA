@@ -23,7 +23,7 @@ python get_caption.py
 Prepare structured prompts for the LLM by incorporating entity attributes, using the candidate list from Step 1.
 
 ```bash
-python creat_prompt.py
+python create_prompt.py
 ```
 
 ## Step 3: Fine-tuning & Inference
